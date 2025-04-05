@@ -18,7 +18,7 @@
 
 ### .exeファイルを使用する場合
 
-1. [shortcut_manager.exe](path/to/shortcut_manager.exe) をダウンロードします。
+1. [shortcut_manager.exe](C:/Users/hayato_minamizuka/Desktop/dist/shortcut_manager.exe) をダウンロードします。
 2. ダウンロードした `.exe` ファイルをダブルクリックして実行します。
 
 ### Pythonソースコードを使用する場合
